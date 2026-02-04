@@ -218,7 +218,5 @@ MIT License
 **Hareesh Yalamasetty**  
 AI / MLOps / Cloud Enthusiast
 
----
 
-If you want this README tailored for **GitHub**, **enterprise usage**, or **interview/demo presentation**, I can refine it further 👍
 
